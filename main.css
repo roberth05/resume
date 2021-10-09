@@ -18,3 +18,9 @@ h3 {
 h4 {
     margin-top: -1rem;
 }
+
+#box-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
